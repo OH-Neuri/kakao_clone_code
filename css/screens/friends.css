@@ -7,7 +7,27 @@
   box-sizing: border-box;
   font-weight: 600;
   opacity: 0.9;
+  margin-top: -15px;
 }
+
 #friends-display-link i {
   opacity: 0.3;
+}
+
+.friends-screen {
+  margin-top: 15px;
+  padding: 0px var(--horizontal-space);
+}
+
+.friends-scree__channel {
+  margin-top: 25px;
+  border-top: var(--main-border);
+  padding-top: 15px;
+  margin-bottom: 30px;
+}
+
+.friends-scree__channel-header {
+  display: flex;
+  justify-content: space-between;
+  color: rgba(0, 0, 0, 0.5);
 }
