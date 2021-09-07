@@ -32,9 +32,10 @@
   justify-content: center;
   align-items: center;
   margin-bottom: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.05);
 }
 
 .more-suggestions__icon-image i {
-  font-size: 25px;
+  font-size: 30px;
   color: white;
 }
