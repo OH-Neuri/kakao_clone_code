@@ -7,12 +7,12 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 32px;
+  font-size: 30px;
   top: 0;
 }
 
 #no-mobile span {
-  width: 70%;
+  width: 50%;
 }
 
 @media screen and (max-width: 645px) {
